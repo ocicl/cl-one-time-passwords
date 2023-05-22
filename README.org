@@ -1,0 +1,9 @@
+* cl-one-time-passwords
+
+One time passwords (hotp rfc4226, totp rfc6238) as used in two factor authentication systems such as Google's.
+
+|---------+--------------------------------------------------------|
+| source  | git:https://github.com/bhyde/cl-one-time-passwords.git |
+| commit  | a80becf                                                |
+| systems | cl-one-time-passwords                                  |
+|---------+--------------------------------------------------------|
